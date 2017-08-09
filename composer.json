@@ -1,0 +1,13 @@
+{
+    "name": "lapie002/marsrover",
+    "authors": [
+        {
+            "name": "lapie002",
+            "email": "lapierre.bruno@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^6.2"
+    }
+}
